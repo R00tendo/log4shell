@@ -1,0 +1,10 @@
+USE PYTHON3
+apt update
+apt-get install python3
+apt-get install python3-pip
+pip3 install threading
+pip3 install requests
+pip3 install time
+pip3 install os
+pip3 install sys
+python3 log4j.py --setup 
